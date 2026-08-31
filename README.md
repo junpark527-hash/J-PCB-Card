@@ -1,4 +1,4 @@
-## V-PCB-Card
+## J-PCB-Card
 A PCB hacker card following the Hack Club Jam tutorial!
 <img width="1554" height="954" alt="image" src="https://github.com/user-attachments/assets/51932685-cb33-49ae-b9a1-093bdef08c7e" />
 <img width="1618" height="958" alt="image" src="https://github.com/user-attachments/assets/df523c34-f286-4fb6-9b01-268478951a0d" />
