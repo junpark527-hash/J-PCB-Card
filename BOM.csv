@@ -1,0 +1,17 @@
+Item,Designator,Quantity,Part,Supplier,Supplier Part,Line Total (USD),Notes
+NFC Antenna,1,5,25X48MM_NFC_ANTENNA,-,-,0.00,Copper traces on the PCB - no part needed
+Capacitor 220nF,C1,5,CL10B224KA8NNNC,JLCPCB,C21120,0.069,Basic part
+LED red 0805,LED1,5,KT-0805Y,JLCPCB,C2296,0.0765,Basic part
+Resistor 47Ω,R1,5,0603WAF470JT5E,JLCPCB,C23182,0.02,Basic part
+NFC chip,U1,5,NT3H2111W0FHKH,JLCPCB,C710403,3.0775,Extended part
+PCB fabrication,-,5,Black soldermask + HASL (silver),JLCPCB,-,2.00,
+Assembly setup fee,-,1,-,JLCPCB,-,8.24,
+Stencil,-,1,-,JLCPCB,-,1.55,
+Extended components fee,-,1,-,JLCPCB,-,3.09,
+SMT assembly,-,1,-,JLCPCB,-,0.12,
+Nitrogen reflow soldering,-,1,-,JLCPCB,-,0.91,
+Depanel boards & edge rail,-,1,-,JLCPCB,-,3.31,
+Shipping (Global Standard Direct Line),-,1,-,JLCPCB,-,10.23,
+Sales tax,-,1,-,-,-,2.05,
+JLCONE discount,-,1,-,-,-,-1.70,
+TOTAL,,,,,,33.04,Grand total at JLCPCB checkout in USD
