@@ -25,3 +25,5 @@ I don't really know how to ask for what colors I want, so I am going to put it i
 * all the parts in the BOM file
 * black board color and silver surface finish
 * shipping
+* PCB assembly
+* all costs in the BOM file at the root of the repository
